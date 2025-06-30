@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Velvet Scents</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Velvet Scents</h1>
+    <p>A scent that tells your story</p>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Velvet Scents crafts luxurious perfumes designed to evoke memory, passion, and power. Every bottle tells a story—yours.</p>
+  </section>
+
+  <section id="scents">
+    <h2>Our Signature Scents</h2>
+    <div class="card">
+      <h3>COP</h3>
+      <p>Bold. Smoky. Commanding.</p>
+    </div>
+    <div class="card">
+      <h3>Phantom</h3>
+      <p>Mysterious. Deep. Unforgettable.</p>
+    </div>
+    <div class="card">
+      <h3>Perlium</h3>
+      <p>Fresh. Lively. Elegant.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Order Now</h2>
+    <p>DM us on Instagram or WhatsApp to place your order.</p>
+    <a href="https://www.instagram.com/yourhandle" target="_blank" class="btn">Instagram</a>
+    <a href="https://wa.me/91XXXXXXXXXX" target="_blank" class="btn">WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Velvet Scents. All rights reserved.</p>
+  </footer>
+</body>
+</html>
